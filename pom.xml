@@ -10,7 +10,7 @@
 
     <groupId>de.javagl</groupId>
     <artifactId>hexagon</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 
     <name>hexagon</name>
     <description>Classes related to computations on Hexagons and Hexagon Grids</description>
